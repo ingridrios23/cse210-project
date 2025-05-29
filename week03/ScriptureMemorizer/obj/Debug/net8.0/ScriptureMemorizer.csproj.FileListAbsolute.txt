@@ -1,0 +1,15 @@
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.sourcelink.json
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+c:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll
