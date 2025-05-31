@@ -1,0 +1,15 @@
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.exe
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.deps.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.runtimeconfig.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\bin\Debug\net8.0\YouTubeVideos.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfoInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.AssemblyInfo.cs
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.sourcelink.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\refint\YouTubeVideos.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\YouTubeVideos.genruntimeconfig.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week04\YouTubeVideos\obj\Debug\net8.0\ref\YouTubeVideos.dll
