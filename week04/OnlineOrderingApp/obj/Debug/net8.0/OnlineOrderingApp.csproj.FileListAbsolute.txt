@@ -1,0 +1,15 @@
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\bin\Debug\net8.0\OnlineOrderingApp.exe
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\bin\Debug\net8.0\OnlineOrderingApp.deps.json
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\bin\Debug\net8.0\OnlineOrderingApp.runtimeconfig.json
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\bin\Debug\net8.0\OnlineOrderingApp.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\bin\Debug\net8.0\OnlineOrderingApp.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.AssemblyInfoInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.AssemblyInfo.cs
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.sourcelink.json
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\refint\OnlineOrderingApp.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\OnlineOrderingApp.genruntimeconfig.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\OnlineOrdering\OnlineOrderingApp\obj\Debug\net8.0\ref\OnlineOrderingApp.dll
