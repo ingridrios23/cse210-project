@@ -1,0 +1,15 @@
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.sourcelink.json
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\cse210-projects\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
