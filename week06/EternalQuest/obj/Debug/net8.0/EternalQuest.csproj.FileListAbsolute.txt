@@ -1,0 +1,15 @@
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.exe
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.deps.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.runtimeconfig.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfo.cs
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.sourcelink.json
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\refint\EternalQuest.dll
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.pdb
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.genruntimeconfig.cache
+C:\Users\Ingrid Rios Chiroque\Desktop\week06\EternalQuest\obj\Debug\net8.0\ref\EternalQuest.dll

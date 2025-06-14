@@ -1,0 +1,4 @@
+Ingrid|0
+SimpleGoal|Run a Marathon|Complete a marathon to get 1000 points|1000|False
+EternalGoal|Daily Scripture Study|Study scriptures daily|100|False
+ChecklistGoal|Temple Visits|Visit temple 10 times|50|False|0|10|500
