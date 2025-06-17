@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExerciseTracking/1.0.0": {
+        "runtime": {
+          "ExerciseTracking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciseTracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
